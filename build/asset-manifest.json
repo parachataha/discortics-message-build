@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/discortics-embed-builder/static/css/main.2cb47853.css",
+    "main.js": "/discortics-embed-builder/static/js/main.0efbe3e5.js",
+    "static/media/bg2.png": "/discortics-embed-builder/static/media/bg2.ea2d27af19f5b2b267a2.png",
+    "index.html": "/discortics-embed-builder/index.html",
+    "main.2cb47853.css.map": "/discortics-embed-builder/static/css/main.2cb47853.css.map",
+    "main.0efbe3e5.js.map": "/discortics-embed-builder/static/js/main.0efbe3e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb47853.css",
+    "static/js/main.0efbe3e5.js"
+  ]
+}
