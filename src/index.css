@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #00111C;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; align-items: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 80%;
+  animation: 1s;
+}
+div#App {
+  background-image: url('./assets/bg2.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-x: 50%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+div#footer{
+  padding-bottom: 40px;
+}
+div#footer img {
+  height: 45px; width: 45px; 
+  margin-left: 5vw;  
+}
+div#footer ul {
+  list-style: none;
+  float: right;
+  display: flex;
+  align-items: center;
+  margin-right: 8vw;
+}
+div#footer ul li a svg{
+  color: rgb(224, 224, 224);
+  font-size: 1.5em;
+  margin: 5px 1vw 5px 1vw;
+}
+
+.bottom-error {
+  text-align: center;
+  justify-self: center; 
+  align-self: center;
+  color: rgba(255, 255, 255, 0.1);
+  padding: 5px;
+  margin: 5vw;
+  padding-bottom: 5vh;
+  text-align: center;
+}
